@@ -1,5 +1,4 @@
-# OOP-course-fall-2023
-## Object-Oriented Programming (OOP) Course Repository
+# Object-Oriented Programming (OOP) Course fall 2023
 Welcome to the comprehensive repository for the Object-Oriented Programming (OOP) course! This repository serves as a centralized hub for all the resources, materials, and information related to the course. Whether you're a student looking to enhance your programming skills or an instructor seeking valuable teaching materials, you'll find everything you need right here.
 
 Course Overview:
@@ -17,8 +16,6 @@ Explore a variety of assignments and projects that challenge students to apply O
 ### 4. Supplementary Reading Materials:
 Delve deeper into OOP concepts with supplementary reading materials. Recommended books, articles, and research papers are provided to enhance understanding and provide additional context.
 
-### 5. Quizzes and Assessments:
-Test your knowledge with quizzes and assessments for each module. These tools are designed to gauge comprehension and provide instant feedback to reinforce learning.
 
-### 6. Solutions and Answer Keys:
+### 5. Solutions and Answer Keys:
 Access solutions and answer keys for exercises, assignments, and assessments. These resources are invaluable for self-assessment and
